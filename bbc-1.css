@@ -1,0 +1,206 @@
+
+        #topbar {
+            width: 1300px;
+            height : 45px;
+            margin: 0 auto;
+        }
+        body {
+            margin: 0;
+            padding : 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        #logo{
+            width: 80px;
+            height:30px;
+            float: left;
+            margin-right: 15px;
+            margin-top: 8px;
+        }
+        .divider{
+            float: left;
+            border-left: 1px #CCCCCC solid;
+            height:100%;
+        }
+        #signin-img {
+            margin-top: 12px;
+            margin-left: 15px;
+            margin-right: 8px;
+            height: 25px;
+            width:25px;
+            float: left;
+        }
+        #signin-text{
+            font-size: 18px;
+            position: relative;
+            top:15px;
+            margin-right: 70px;
+        }
+        .topbar-text{
+            margin:20px;
+            position: relative;
+            top: 15px;
+        }
+        #more-img{
+            height:8px;
+            width:8px;
+            margin-left: 25px;
+            margin-right: 15px;
+            position: relative;
+            top:15px;
+        }
+        #search-bar{
+            height:24px;
+            width: 80%;
+            background-color:#E5E7E9;
+            border-radius: 5px;
+            border:none;
+            margin: 12px 1px 4px 8px;
+            float:left;
+        }
+        #search-img{
+            height:24px;
+            width: 20px;
+            margin-top: 12px;
+        }
+        .clear{
+            clear:both;
+        }
+        #headerbar{
+            height: 60px;
+            background-color: #bb1919;
+        }
+        .newstext{
+            width: 1300px;
+            margin: 0 auto;
+        }
+        h1{
+            margin: 0;
+            padding: 0;
+            color: white;
+            font-weight: normal;
+            font-size: 45px;
+            padding-top: 8px;
+        }
+        #headertextbar{
+            height: 30px;
+            background-color:#aa1b0c ;
+        }
+        
+        .headerbar-text a{
+            float: left;
+            color: white;
+            font-size: 14px;
+            text-decoration: none;
+            padding-right:15px;
+            border-right: 1px #CCCCCC solid;
+            position: relative;
+            top:6px;
+        }
+        .headerbar-text a:hover{
+            text-decoration: underline;
+        }
+        .divi{
+            padding-left:15px ;
+        }
+        .nodivi{
+            border:none!important;
+        }
+        h2{
+            text-decoration: underline #aa1b0c 3px;
+        }
+        #tiktok-img{
+            width: 500px;
+            height: 300px;
+        }
+        h3 a{
+            width:500px;
+            float:left;
+            font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;
+            font-size: 25px;
+            text-decoration: none;
+            color:gray;
+        }
+        h3 a:hover{
+            color:#1167a8;
+            text-decoration: underline;
+        }
+        #tiktok-summary{
+            width:500px;
+            font-size: 15px;
+            float: left;
+            color: grey;
+        }
+        #articlepage{
+            float:left;
+        }
+        #time-icon{
+            float: left;
+            height:20px;
+            width:20px;
+        }
+        #ulists a{
+            text-decoration: none;
+            color:black;
+            font-weight: bold;
+        }
+        ul,li{
+            width: 500px;
+            margin-left:10px;
+            padding:0;
+        }
+        #ulists a:hover{
+            color:#1167a8;
+            text-decoration: underline;
+        }
+        
+        .tech-img{
+            margin-left: 20px;
+            height: 150px;
+            width:230px;
+            
+        }
+        h4 a{
+            color:grey;
+            text-decoration: none;
+            margin-top: -10px;
+            margin-left:20px;
+            position:absolute;
+            width:230px;
+        }
+        h4 a:hover{
+            color:#1167a8;
+            text-decoration: underline;
+        }
+        .summary{
+            margin-left:20px;
+            margin-top:35px;
+            width:230px;
+            font-size: 15px;
+            float: left;
+            color: grey;
+        }
+        .time{
+            margin-left: 19px;
+            width:230px;
+            font-size: 15px;
+            color: grey;
+        }
+        #border{
+            font-size: 18px;
+            font-weight: bold;
+            background-color: #ffffff;
+            margin-top:-25px;
+            width:13%
+        }
+        hr{
+            border:solid 0.5px grey;
+        }
+        .feature-img{
+            margin-right: 10px;
+            height: 150px;
+            width: 250px;
+        }
+        .text{
+            margin-left:-20px;
+        }
+       
